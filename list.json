@@ -605,5 +605,16 @@
         "version": "1.1.1",
         "location": "https://hub.docker.com/r/arm64v8/irssi",
         "type": "docker"
-    }
+    },
+	   {
+        "description": "Portainer is an alternative frontend to Qnaps Containerstation. ",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "icon": "",
+        "displayName": "Portainer",
+        "name": "portainer",
+        "version": "2.0.1",
+        "location": "https://hub.docker.com/r/portainer/portainer-ce"
+        "type": "app"
+    },
 ]
