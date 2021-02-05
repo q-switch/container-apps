@@ -616,16 +616,5 @@
         "version": "2.0.1",
         "location": "https://hub.docker.com/r/portainer/portainer-ce",
         "type": "app"
-    },
-	{
-        "description": "Workadventure",
-        "repository": "dockerhub",
-        "arch": "amd64",
-        "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.GFvCtG9Pb0Uhd_WXTMOfewHaHa%26pid%3DApi&f=1",
-        "displayName": "Workadventure",
-        "name": "workadventure",
-        "version": "1.0",
-        "location": "",
-        "type": "app"
     }
 ]
